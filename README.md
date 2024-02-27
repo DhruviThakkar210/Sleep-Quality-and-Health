@@ -1,5 +1,5 @@
 # Sleep-Quality-and-Health
-Exploring the Impact of Sleep Patterns on Type 2 Diabetes, Obesity, and Depression
+Exploring the Impact of Sleep Patterns on Type 2 Diabetes,  and Depression
 
 
 This project is dedicated to exploring the profound impact of sleep patterns on various aspects of human health, including Type 2 Diabetes, Obesity, and Depression. Sleep is a fundamental pillar of overall well-being, and understanding its effects on these health conditions is crucial for improving public health and quality of life.
